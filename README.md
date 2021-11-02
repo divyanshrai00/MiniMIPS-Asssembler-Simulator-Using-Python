@@ -24,3 +24,4 @@ This project is implemented in Python </br>
 - R-Type: add, sub, and, or, xor, nor, jr, slt
 - I-Type: addi, andi, ori, xori, lw, sw, beq, bne, bltz
 - J-Type: j, jal
+![simulator](https://user-images.githubusercontent.com/74989402/139793102-ad333362-5a52-4b8a-97a4-07442e68857d.PNG)
